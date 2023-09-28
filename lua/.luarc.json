@@ -1,0 +1,33 @@
+{
+    "workspace.library": [
+        "/Users/yuan/.config/nvim",
+        "/Users/yuan/.local/share/nvim/site",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp-buffer",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp-cmdline",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp-path",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/friendly-snippets",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/nvim-autopairs",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/vim-airline",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/vim-nightfly-guicolors",
+        "/opt/homebrew/Cellar/neovim/0.8.1/share/nvim/runtime",
+        "/opt/homebrew/Cellar/neovim/0.8.1/share/nvim/runtime/pack/dist/opt/matchit",
+        "/opt/homebrew/Cellar/neovim/0.8.1/lib/nvim",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp-buffer/after",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp-path/after",
+        "/Users/yuan/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after",
+        "/Users/yuan/.config/nvim/after",
+        "${3rd}/luassert/library",
+        "${3rd}/luv/library"
+    ]
+}
